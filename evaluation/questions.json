@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What is the impact of dimensionality reduction on clustering?",
+    "relevant_chunk_ids": [
+        "chunk_000047",
+        "chunk_000326",
+        "chunk_000003",
+        "chunk_000518",
+        "chunk_000052",
+        "chunk_000327"
+    ]
+  },
+  {
+    "question": "How does PCA affect clustering performance?",
+    "relevant_chunk_ids": [
+        "chunk_000017",
+        "chunk_000047",
+        "chunk_000019"
+    ]
+  },
+  {
+    "question": "What are the challenges of clustering high-dimensional data?",
+    "relevant_chunk_ids": [
+        "chunk_000003",
+        "chunk_000006",
+        "chunk_000301",
+        "chunk_000048",
+        "chunk_000047",
+        "chunk_000054"
+    ]
+  },
+  {
+    "question": "How does dimensionality reduction improve computational efficiency?",
+    "relevant_chunk_ids": [
+        "chunk_000152",
+        "chunk_000181",
+        "chunk_000182"
+    ]
+  },
+  {
+    "question": "Does dimensionality reduction always preserve cluster structure?",
+    "relevant_chunk_ids": [
+        "chunk_000047",
+        "chunk_000052"
+    ]
+  }
+]

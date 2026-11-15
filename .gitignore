@@ -1,0 +1,44 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+conda-env/
+
+# Clés et variables sensibles
+.env
+.env.*
+!.env.example
+*.key
+
+# Documents et données
+data/documents/
+data/processed/
+
+# Base vectorielle ChromaDB
+chroma_db/
+
+# Modèles et caches
+.cache/
+models/
+*.safetensors
+*.pt
+*.pth
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Résultats expérimentaux
+evaluation/results/
